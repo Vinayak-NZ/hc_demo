@@ -2,7 +2,9 @@
 title: "R & RStudio"
 author: "Vinny"
 date: "2022-11-13"
-output: ioslides_presentation
+output:
+  ioslides_presentation:
+    logo: images/open.png
 ---
 
 ```{r setup, include=FALSE}
@@ -37,6 +39,12 @@ knitr::opts_chunk$set(echo = FALSE)
 - Getting started   
 - Using R    
 
+## Part I
+
+<img src="images/batman.jpeg" alt="spark" width="500"/>
+
+"Always mind your surroundings"
+
 ## A showcase
 
 - Using R to collect data  
@@ -47,11 +55,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## A showcase
 
-Your input breathes life into our course,  
-Process text, images, maps and Morse,  
-Create Output so slick,  
-With Runtime in a tick,  
-My co-creator that’s open source. 
+<img src="images/limerick.jpeg" alt="limerick" width="500"/>  
 
 ## R and R Studio
 
@@ -59,6 +63,12 @@ My co-creator that’s open source.
 - Console  
 - Environment  
 - File
+
+## Part II
+
+<img src="images/spark.png" alt="spark" width="500"/>
+
+"Be the spark that will light the fire"
 
 ## A framework for R
 

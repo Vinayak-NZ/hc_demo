@@ -29,6 +29,12 @@ Our Showcase:
 - It is super handy when you want to visualise your data, both for your own exploration of data and to engage end users. You can create both static and interactive graphics.  
 - It can be used to process, analyse and output geospatial data  
 - These two tools can really help streamline your research process. One of my favourite things is the ability to create dynamic documents where the output changes as you feed in new or more data.  
+Limerick:  
+Your input breathes life into our course,  
+Process text, images, maps and Morse,  
+Create Output so slick,  
+With Runtime in a tick,  
+My co-creator that’s open source. 
 
 Now, let’s take a look at R and RStudio.  
 A heads up- my presentation will be full of imperfect analogies. I’m not a computer scientist by training so it’s highly likely I’m going to say silly things. But for the purpose of breaking down barriers - I think it should be okay.  
